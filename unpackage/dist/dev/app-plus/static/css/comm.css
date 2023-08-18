@@ -1,0 +1,15 @@
+.flex {
+	display: flex;
+}
+.alient-item-c{
+	align-items: center;
+}
+.justify-item-c{
+	justify-items: center;
+}
+.boxsz{
+	box-sizing: border-box;
+}
+.flex1{
+	flex: 1;
+}
